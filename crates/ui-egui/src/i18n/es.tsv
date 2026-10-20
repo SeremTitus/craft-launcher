@@ -252,6 +252,7 @@ column	App	Aplicación
 column	Installed	Instalada
 column	Latest	Última
 column	Released	Publicada
+column	Size	Tamaño
 filter	Installed	Instaladas
 	App details	Detalles de la app
 	Close (Esc)	Cerrar (Esc)
@@ -356,4 +357,7 @@ filter	Installed	Instaladas
 	Previous app	Aplicación anterior
 	Show {n} more changes	Mostrar {n} cambios más
 	Last updated: {date}	Última actualización: {date}
+	Size on disk	Tamaño en disco
+	Total: {size}	Total: {size}
+	Disk space used by the installed apps	Espacio en disco ocupado por las aplicaciones instaladas
 column	Version	Versión
